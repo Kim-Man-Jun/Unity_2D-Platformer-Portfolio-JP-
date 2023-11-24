@@ -1,17 +1,17 @@
 # Unity_2D Platformer Portfolio
 ## Project Introduction
-Unity Engine 기반으로 제작한 2D Platformer 포트폴리오입니다.
-<br/>유명 인디게임인 'I Wanna' 시리즈를 참고해 만들었습니다.
-<br/>현재 Repository에는 Script만 존재합니다.
+Unityエンジンをベースにした2Dプラットフォーマーポートフォリオです。
+<br/>有名なインディーゲームである『I Wanna Be The』シリーズを参考にして制作しました。
+<br/>現在のリポジトリにはスクリプトのみが含まれています。
 
 ## Project Overview
-- 게임명 : I Wanna Be The Apple
-- 개발기간 : 2023.08.18 ~ 2023.09.08 (3주)
-- 개발도구 : Unity, GitHub
-- 개발언어 : C#
+- ゲーム名 : I Wanna Be The Apple
+- 開発期間 : 2023.08.18 ~ 2023.09.08 (３週間)
+- 開発道具 : Unity, GitHub
+- 開発言語 : C#
 
 ## Project Statement
-- 링크 : https://drive.google.com/file/d/1fD4xSPg4bV2j6FGkBprNEQQJuQpWkdnm/view?usp=drive_link
+- リンク : https://drive.google.com/file/d/1fD4xSPg4bV2j6FGkBprNEQQJuQpWkdnm/view?usp=drive_link
 
 ## Project Video
-- 링크 : https://youtu.be/hijm3zdRmBU
+- リンク : https://youtu.be/hijm3zdRmBU
