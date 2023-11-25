@@ -14,4 +14,4 @@ Unityエンジンをベースにした2Dプラットフォーマーポートフ�
 - リンク : https://drive.google.com/file/d/1ypiAuh_OL5NSddLN5cv_ouoEzLc3QSLZ/view?usp=drive_link
 
 ## Project Video
-- リンク : https://youtu.be/hijm3zdRmBU
+- リンク : https://youtu.be/0U7FNnF6WS0
